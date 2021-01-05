@@ -26,7 +26,7 @@
     "start": "yarn run prod"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "http-status-codes": "^1.4.0"
   },
   "devDependencies": {
